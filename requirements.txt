@@ -7,6 +7,6 @@ future==0.16.0
 gdapi-python==0.5.3
 idna==2.6
 pydash==4.3.0
-requests==2.18.4
+requests==2.20.0
 six==1.11.0
 urllib3==1.22
